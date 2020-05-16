@@ -18,4 +18,4 @@ The [default Gatsby starter](https://github.com/gatsbyjs/gatsby-starter-default)
 
 
 ## Qiita
-[Gatsby.jsを完全TypeScript化する]https://qiita.com/Takepepe/items/144209f860fbe4d5e9bb
+[Gatsby.jsを完全TypeScript化する](https://qiita.com/Takepepe/items/144209f860fbe4d5e9bb)
